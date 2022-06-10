@@ -1,2 +1,3 @@
 # rsschool-cv
-https://Reaverans.github.io/rsschool-cv/cv
+https://Reaverans.github.io/rsschool-cv/
+ 
